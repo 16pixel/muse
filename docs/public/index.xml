@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muse: a modern CSS framework based on Flexbox</title>
+    <link>http://localhost:3000/</link>
+    <description>Recent content on Muse: a modern CSS framework based on Flexbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breadcrumb</title>
+      <link>http://localhost:3000/docs/components/breadcrumb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/breadcrumb/</guid>
+      <description>  Cherry Documentation Components Breadcrumb    copy   &amp;lt;nav class=&amp;#34;breadcrumb&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt;Breadcrumb&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;     Alignment  Cherry Documentation Components Breadcrumb    copy   &amp;lt;nav class=&amp;#34;breadcrumb breadcrumb-center&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt;Breadcrumb&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;      Cherry Documentation Components Breadcrumb    copy   &amp;lt;nav class=&amp;#34;breadcrumb breadcrumb-right&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt;Breadcrumb&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;     Separators   Cherry   Documentation   Components  Breadcrumb      copy   &amp;lt;nav class=&amp;#34;breadcrumb breadcrumb-bullet&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt; Breadcrumb &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;       Cherry   Documentation   Components  Breadcrumb      copy   &amp;lt;nav class=&amp;#34;breadcrumb breadcrumb-arrow&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt; Breadcrumb &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;       Cherry   Documentation   Components  Breadcrumb      copy   &amp;lt;nav class=&amp;#34;breadcrumb breadcrumb-dot&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;/&amp;#34;&amp;gt;Cherry&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Documentation&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Components&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;active&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;#&amp;#34; aria-current=&amp;#34;page&amp;#34;&amp;gt; Breadcrumb &amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Media Object</title>
+      <link>http://localhost:3000/docs/layouts/media-object/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/layouts/media-object/</guid>
+      <description>2Barbara Middleton  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta eros lacus, nec ultricies elit blandit non. Suspendisse pellentesque mauris sit amet dolor blandit rutrum. Nunc in tempus turpis. 238 90 89   ×   copy   &amp;lt;div class=&amp;#34;media&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;media-left&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/96x96.png&amp;#34; class=&amp;#34;border-circle&amp;#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;media-content&amp;#34;&amp;gt; &amp;lt;strong&amp;gt;2Barbara Middleton&amp;lt;/strong&amp;gt; &amp;lt;p&amp;gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta eros lacus, nec ultricies elit blandit non.</description>
+    </item>
+    
+    <item>
+      <title>Button</title>
+      <link>http://localhost:3000/docs/elements/button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/button/</guid>
+      <description>Button   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn&amp;#34;&amp;gt;Button&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;      Anchor Button   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn&amp;#34;&amp;gt;Anchor&amp;lt;/a&amp;gt; &amp;lt;button class=&amp;#34;btn&amp;#34;&amp;gt;Button&amp;lt;/button&amp;gt; &amp;lt;input class=&amp;#34;btn&amp;#34; type=&amp;#34;submit&amp;#34; value=&amp;#34;Submit input&amp;#34;/&amp;gt; &amp;lt;input class=&amp;#34;btn&amp;#34; type=&amp;#34;reset&amp;#34; value=&amp;#34;Reset input&amp;#34;/&amp;gt; &amp;lt;/div&amp;gt;    
+Color  Primary Info Success Warning Danger   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn btn-primary&amp;#34;&amp;gt;Primary&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-info&amp;#34;&amp;gt;Info&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-success&amp;#34;&amp;gt;Success&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-warning&amp;#34;&amp;gt;Warning&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-danger&amp;#34;&amp;gt;Danger&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Cherry</title>
+      <link>http://localhost:3000/blog/cherry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/cherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color</title>
+      <link>http://localhost:3000/docs/helper/color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/color/</guid>
+      <description>Text   Class Color     .text-primary Cherry   .text-info Cherry   .text-success Cherry   .text-warning Cherry   .text-danger Cherry   .text-black Cherry   .text-gray Cherry   .text-white Cherry     Background   Class Background Color     .bg-primary    .bg-info    .bg-success    .bg-warning    .bg-danger    .</description>
+    </item>
+    
+    <item>
+      <title>Display</title>
+      <link>http://localhost:3000/docs/helper/display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/display/</guid>
+      <description>Text   Class Color     .text-primary Cherry   .text-info Cherry   .text-success Cherry   .text-warning Cherry   .text-danger Cherry   .text-black Cherry   .text-gray Cherry   .text-white Cherry     Background   Class Background Color     .bg-primary    .bg-info    .bg-success    .bg-warning    .bg-danger    .</description>
+    </item>
+    
+    <item>
+      <title>Dropdown</title>
+      <link>http://localhost:3000/docs/components/dropdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/dropdown/</guid>
+      <description> Dropdown button &amp;nbsp;   One dropdown item Another dropdown item Active dropdown item Other dropdown item  Just a dropdown divider    copy   &amp;lt;div class=&amp;#34;dropdown&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary dropdown-toggle&amp;#34;&amp;gt; Dropdown button &amp;amp;nbsp; &amp;lt;i class=&amp;#34;icon icon-angle-down&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/button&amp;gt; &amp;lt;div class=&amp;#34;dropdown-menu&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;One dropdown item&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Another dropdown item&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item active&amp;#34;&amp;gt;Active dropdown item&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Other dropdown item&amp;lt;/a&amp;gt; &amp;lt;div class=&amp;#34;dropdown-divider&amp;#34;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Just a dropdown divider&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;     Alignment Right aligned &amp;nbsp;   User Posts Setting    copy   &amp;lt;div class=&amp;#34;dropdown dropdown-right&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary dropdown-toggle&amp;#34;&amp;gt; Right aligned &amp;amp;nbsp; &amp;lt;i class=&amp;#34;icon icon-angle-down&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/button&amp;gt; &amp;lt;div class=&amp;#34;dropdown-menu&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;User&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Posts&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Setting&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;     Dropup button &amp;nbsp;   User Posts Setting    copy   &amp;lt;div class=&amp;#34;dropdown dropdown-up&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary dropdown-toggle&amp;#34;&amp;gt; Dropup button &amp;amp;nbsp; &amp;lt;i class=&amp;#34;icon icon-angle-up&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/button&amp;gt; &amp;lt;div class=&amp;#34;dropdown-menu&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;User&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Posts&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Setting&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;     Hover or Toggle Hover me &amp;nbsp;   User Posts Setting    copy   &amp;lt;div class=&amp;#34;dropdown dropdown-hover&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary dropdown-toggle&amp;#34;&amp;gt; Hover me &amp;amp;nbsp; &amp;lt;i class=&amp;#34;icon icon-angle-down&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/button&amp;gt; &amp;lt;div class=&amp;#34;dropdown-menu&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;User&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Posts&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;dropdown-item&amp;#34;&amp;gt;Setting&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://localhost:3000/docs/elements/form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/form/</guid>
+      <description>Email  Username    This username is available  Password This password is invalid  Subject Select dropdown With options   Message   Check me out   Yes  No   Submit   copy   &amp;lt;form&amp;gt; &amp;lt;!-- email --&amp;gt; &amp;lt;div class=&amp;#34;form-group&amp;#34;&amp;gt; &amp;lt;label for=&amp;#34;email&amp;#34;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;lt;input type=&amp;#34;email&amp;#34; class=&amp;#34;form-control&amp;#34; id=&amp;#34;email&amp;#34; placeholder=&amp;#34;Enter email&amp;#34; /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- username --&amp;gt; &amp;lt;div class=&amp;#34;form-group&amp;#34;&amp;gt; &amp;lt;label for=&amp;#34;username&amp;#34;&amp;gt;Username&amp;lt;/label&amp;gt; &amp;lt;div class=&amp;#34;form-field form-icons-left form-icons-right&amp;#34;&amp;gt; &amp;lt;input type=&amp;#34;username&amp;#34; class=&amp;#34;form-control form-control-success&amp;#34; id=&amp;#34;username&amp;#34; placeholder=&amp;#34;Enter username&amp;#34; /&amp;gt; &amp;lt;i class=&amp;#34;icon icon-github form-icon form-icon-left&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;icon icon-check form-icon form-icon-right&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;small class=&amp;#34;form-text text-success&amp;#34;&amp;gt;This username is available&amp;lt;/small&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Grid</title>
+      <link>http://localhost:3000/docs/layouts/grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/layouts/grid/</guid>
+      <description>col  col col col  col-9 auto auto  col-7 auto auto  col-5 auto auto    copy   &amp;lt;div class=&amp;#34;grid-demo text-center text-white&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col-9&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col-9&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col-7&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col-7&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col-5&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;col-5&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray block&amp;#34;&amp;gt;auto&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;     Nesting Left  Right Right1  Right2       copy   &amp;lt;div class=&amp;#34;grid-demo text-center text-white&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col-8&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;block bg-primary&amp;#34; style=&amp;#34;height: 145px; line-height: 104px;&amp;#34;&amp;gt;Left&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col-4&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;block bg-primary&amp;#34; style=&amp;#34;margin-bottom: 8px;&amp;#34;&amp;gt;Right&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;Right1&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;block bg-primary&amp;#34;&amp;gt;Right2&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;     Responsive You can define a column size for each viewport size: mobile(xs), tablet(sm), and desktop(md~xl).</description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>http://localhost:3000/docs/elements/image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/image/</guid>
+      <description>   copy   &amp;lt;figure class=&amp;#34;image&amp;#34; style=&amp;#34;width: 128px; height: 128px;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/128x128.png&amp;#34; alt=&amp;#34;128x128&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;     Rounded   copy   &amp;lt;figure class=&amp;#34;image image-rounded&amp;#34; style=&amp;#34;width: 128px; height: 128px;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/128x128.png&amp;#34; alt=&amp;#34;128x128&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;     Responsive   copy   &amp;lt;figure class=&amp;#34;image image-responsive&amp;#34; style=&amp;#34;padding-top: 50%;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/600x300.png&amp;#34; alt=&amp;#34;600x300&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:3000/docs/overview/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/overview/installation/</guid>
+      <description> Use manually Download the compiled and minified css file (core ~10KB min+gzip)
+ Download  &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;./dist/muse.min.css&amp;#34;&amp;gt; Add muse via cdn Alternatively, you can use the unpkg or cdnjs CDN to load compiled muse.css.
+&amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;https://unpkg.com/@16px/cherry/dist/muse.min.css&amp;#34;&amp;gt; We recommend our users to lock Muse&#39;s version when using CDN. Please refer to unpkg.com for more information.  Install muse via npm npm i @16px/muse --save-dev</description>
+    </item>
+    
+    <item>
+      <title>Layout</title>
+      <link>http://localhost:3000/docs/layouts/layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/layouts/layout/</guid>
+      <description> Header Main Sidebar    copy   &amp;lt;div class=&amp;#34;text-center text-white&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;bg-gray area&amp;#34;&amp;gt;Header&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;row no-gutters&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;col-9&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray area&amp;#34;&amp;gt;Main&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;col-3&amp;#34;&amp;gt;&amp;lt;div class=&amp;#34;bg-gray area&amp;#34;&amp;gt;Sidebar&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>http://localhost:3000/docs/components/menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/menu/</guid>
+      <description> General Dashboard Customers   Appearance Themes Widgets   Plugins Installed plugins Add New     copy   &amp;lt;aside class=&amp;#34;menu&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;General&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Dashboard&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Customers&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;Appearance&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Themes&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Widgets&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;Plugins&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Installed plugins&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a class=&amp;#34;menu-item&amp;#34; href=&amp;#34;#&amp;#34;&amp;gt;Add New&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/aside&amp;gt;     Reverse General Dashboard Customers   Appearance Themes Widgets   Plugins Installed plugins Add New      copy   &amp;lt;div style=&amp;#34;background: #000; padding: 30px;&amp;#34;&amp;gt; &amp;lt;aside class=&amp;#34;menu menu-reverse&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;General&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Dashboard&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Customers&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;Appearance&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Themes&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Widgets&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt;Plugins&amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Installed plugins&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Add New&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/aside&amp;gt; &amp;lt;/div&amp;gt;     Collapse General   Dashboard Customers   Appearance   Themes Widgets   Plugins   Installed plugins Add New     copy   &amp;lt;aside class=&amp;#34;menu menu-collapse&amp;#34; style=&amp;#34;width: 200px;&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt; General &amp;lt;i class=&amp;#34;menu-collapse-icon icon icon-angle-right&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Dashboard&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Customers&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt; Appearance &amp;lt;i class=&amp;#34;menu-collapse-icon icon icon-angle-right&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Themes&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Widgets&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;menu-group&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;menu-header&amp;#34;&amp;gt; Plugins &amp;lt;i class=&amp;#34;menu-collapse-icon icon icon-angle-right&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;ul class=&amp;#34;menu-list&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Installed plugins&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#&amp;#34;&amp;gt;Add New&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/aside&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Modal</title>
+      <link>http://localhost:3000/docs/components/modal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/modal/</guid>
+      <description>Launch Modal
+header ×  -- -- -- -- --  Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.  Praesent commodo cursus magna, vel scelerisque nisl consectetur et.Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.  Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</description>
+    </item>
+    
+    <item>
+      <title>Navbar</title>
+      <link>http://localhost:3000/docs/components/navbar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/navbar/</guid>
+      <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;        Docs   Blog   Love  More  One dropdown item   Another dropdown item  Other dropdown item  Just a dropdown divider    Github        </description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>http://localhost:3000/docs/elements/progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/progress/</guid>
+      <description> %15   copy   &amp;lt;progress class=&amp;#34;progress&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt; %15 &amp;lt;/progress&amp;gt;     %15 %30 %45 %60 %75   copy   &amp;lt;div class=&amp;#34;cd-demo&amp;#34;&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-primary&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%15&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-info&amp;#34; value=&amp;#34;30&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%30&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-success&amp;#34; value=&amp;#34;45&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%45&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-warning&amp;#34; value=&amp;#34;60&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%60&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-danger&amp;#34; value=&amp;#34;75&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%75&amp;lt;/progress&amp;gt; &amp;lt;/div&amp;gt;     %15 %30 %45   copy   &amp;lt;div class=&amp;#34;cd-demo&amp;#34;&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-sm&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%15&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress&amp;#34; value=&amp;#34;30&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%30&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-lg&amp;#34; value=&amp;#34;45&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%45&amp;lt;/progress&amp;gt; &amp;lt;/div&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Table</title>
+      <link>http://localhost:3000/docs/elements/table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/table/</guid>
+      <description># First Last Handle     1 Mark Otto @mmo   1 John Wi @add   1 Jenny Otto @uuy    Modifiers Add borders to all the cells. table table-bordered   One Two     Three Four      Add stripes to the table. table table-striped   One Two     Three Four   Five Six   Seven Eight   Nine Ten      You can add a hover effect on each row table table-hover   One Two     Three Four   Five Six   Seven Eight   Nine Ten      You can have a fullwidth table.</description>
+    </item>
+    
+    <item>
+      <title>Tabs</title>
+      <link>http://localhost:3000/docs/components/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/tabs/</guid>
+      <description>  Video Gallery Music    copy   &amp;lt;div class=&amp;#34;tabs&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;#34;tab-item active&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-video&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Video&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;tab-item&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-gallery&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Gallery&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;tab-item&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-music&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Music&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt;     Alignment  Video Gallery Music    copy   &amp;lt;div class=&amp;#34;tabs tabs-center&amp;#34;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;#34;tab-item&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-video&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Video&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;tab-item active&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-gallery&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Gallery&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;tab-item&amp;#34;&amp;gt;&amp;lt;i class=&amp;#34;icon icon-music&amp;#34;&amp;gt;&amp;lt;/i&amp;gt;Music&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>http://localhost:3000/docs/elements/tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/tag/</guid>
+      <description> Primary Info Success Warning Danger  copy   &amp;lt;span class=&amp;#34;tag tag-primary&amp;#34;&amp;gt;Primary&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-info&amp;#34;&amp;gt;Info&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-success&amp;#34;&amp;gt;Success&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-warning&amp;#34;&amp;gt;Warning&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-danger&amp;#34;&amp;gt;Danger&amp;lt;/span&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Tooltip</title>
+      <link>http://localhost:3000/docs/components/tooltip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/components/tooltip/</guid>
+      <description>Tooltips provide context information labels that appear on hover and focus. Tooltips component is built entirely in CSS. Top Button Left Button  Right Button Bottom Button  copy   &amp;lt;p class=&amp;#34;text-center&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary tooltip&amp;#34; data-tooltip=&amp;#34;I&amp;#39;m top tooltip&amp;#34;&amp;gt;Top Button&amp;lt;/button&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-right&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary tooltip tooltip-left&amp;#34; data-tooltip=&amp;#34;I&amp;#39;m left tooltip&amp;#34;&amp;gt;Left Button&amp;lt;/button&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary tooltip tooltip-right&amp;#34; data-tooltip=&amp;#34;I&amp;#39;m right tooltip&amp;#34;&amp;gt;Right Button&amp;lt;/button&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-center&amp;#34;&amp;gt; &amp;lt;button class=&amp;#34;btn btn-primary tooltip tooltip-bottom&amp;#34; data-tooltip=&amp;#34;I&amp;#39;m bottom tooltip&amp;#34;&amp;gt;Bottom Button&amp;lt;/button&amp;gt; &amp;lt;/p&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://localhost:3000/docs/helper/typography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/typography/</guid>
+      <description>Size   Class Font-size     font-1 3rem   font-2 2.5rem   font-3 2rem   font-4 1.5rem   font-5 1.25em   font-6 1rem    Transform Lowercased text.
+Uppercased text.
+CapiTaliZed text.
+ copy   &amp;lt;p class=&amp;#34;text-lowercase&amp;#34;&amp;gt;Lowercased text.&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-uppercase&amp;#34;&amp;gt;Uppercased text.&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-capitalize&amp;#34;&amp;gt;CapiTaliZed text.&amp;lt;/p&amp;gt;    Weight and Italics Bold text.
+Normal weight text.
+Light weight text.
+Italic text.</description>
+    </item>
+    
+  </channel>
+</rss>

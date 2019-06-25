@@ -1,0 +1,38 @@
+{
+  "name": "@16px/muse",
+  "version": "0.2.3",
+  "description": "Modern CSS framework based on Flexbox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16pixel/muse.git"
+  },
+  "scripts": {
+    "dev": "gulp"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "css-framework"
+  ],
+  "author": "Aiden X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/16pixel/muse/issues"
+  },
+  "homepage": "https://github.com/16pixel/muse#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-header": "^2.0.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-run-command": "^0.0.9",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "gulp-exec": "^3.0.2",
+    "gulp-util": "^3.0.8"
+  }
+}

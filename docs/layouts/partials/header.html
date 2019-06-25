@@ -1,0 +1,59 @@
+<html lang="en">
+{{ partial "head.html" . }}
+
+<body class="{{ if .IsHome}} home {{ end }}">
+<nav class="navbar navbar-top" id="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/" id="logo">
+        <img src="{{ .Site.BaseURL }}/images/logo.png" width="42" height="42" alt="logo"/>&nbsp;&nbsp;&nbsp;
+      </a>
+      <div class="navbar-burger" id="navbar-burger">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <div class="navbar-menu" id="navbar-menu">
+      <ul class="navbar-start">
+          {{ $type := .Type }}
+          {{ range .Site.Menus.main }}
+              {{ $url := trim .URL "/"}}
+              <li class="">
+                <a href="{{ .URL | absURL }}"
+                   class="navbar-item {{ if eq $type (index (split $url "/") 0) }}active{{ end }}">
+                    {{ .Pre }}
+                    {{ .Name }}
+                </a>
+              </li>
+          {{ end }}
+        <li class="navbar-item navbar-dropdown navbar-dropdown-hover">
+          <span class="navbar-dropdown-toggle">More</span>
+          <div class="navbar-dropdown-menu">
+            <a class="navbar-item">
+              <i class="icon icon-github"></i>
+              <strong>One dropdown item</strong>
+            </a>
+            <a class="navbar-item"><i class="icon icon-github"></i> Another dropdown item</a>
+            <a class="navbar-item"><i class="icon icon-github"></i> Other dropdown item</a>
+            <a class="navbar-item"><i class="icon icon-github"></i> Just a dropdown divider</a>
+          </div>
+        </li>
+      </ul>
+      <div class="navbar-end">
+        <div class="navbar-item navbar-dropdown navbar-dropdown-hover">
+          <span class="navbar-dropdown-toggle">简体中文</span>
+          <div class="navbar-dropdown-menu">
+            <a href="" class="navbar-item">简体中文</a>
+            <a href="" class="navbar-item">English</a>
+          </div>
+        </div>
+        <div class="navbar-item">
+          <a target="blank" href="https://github.com/16pixel/muse" class="btn btn-primary">
+            <i class="icon icon-github"></i>Github
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helper on Muse: a modern CSS framework based on Flexbox</title>
+    <link>http://localhost:3000/docs/helper/</link>
+    <description>Recent content in Helper on Muse: a modern CSS framework based on Flexbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/docs/helper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Color</title>
+      <link>http://localhost:3000/docs/helper/color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/color/</guid>
+      <description>Text   Class Color     .text-primary Cherry   .text-info Cherry   .text-success Cherry   .text-warning Cherry   .text-danger Cherry   .text-black Cherry   .text-gray Cherry   .text-white Cherry     Background   Class Background Color     .bg-primary    .bg-info    .bg-success    .bg-warning    .bg-danger    .</description>
+    </item>
+    
+    <item>
+      <title>Display</title>
+      <link>http://localhost:3000/docs/helper/display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/display/</guid>
+      <description>Text   Class Color     .text-primary Cherry   .text-info Cherry   .text-success Cherry   .text-warning Cherry   .text-danger Cherry   .text-black Cherry   .text-gray Cherry   .text-white Cherry     Background   Class Background Color     .bg-primary    .bg-info    .bg-success    .bg-warning    .bg-danger    .</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://localhost:3000/docs/helper/typography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/helper/typography/</guid>
+      <description>Size   Class Font-size     font-1 3rem   font-2 2.5rem   font-3 2rem   font-4 1.5rem   font-5 1.25em   font-6 1rem    Transform Lowercased text.
+Uppercased text.
+CapiTaliZed text.
+ copy   &amp;lt;p class=&amp;#34;text-lowercase&amp;#34;&amp;gt;Lowercased text.&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-uppercase&amp;#34;&amp;gt;Uppercased text.&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;text-capitalize&amp;#34;&amp;gt;CapiTaliZed text.&amp;lt;/p&amp;gt;    Weight and Italics Bold text.
+Normal weight text.
+Light weight text.
+Italic text.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+{{ $type := .Get "type" }}
+
+{{ if true }}
+<div class="capture">
+  <div class="capture-style">{{ $.Inner }}</div>
+  <div class="capture-html">
+    <button class="btn-copy btn btn-sm" data-clipboard-target=".highlight">
+      copy
+    </button>
+    
+    <pre class="language-html"><code>{{ htmlEscape $.Inner | safeHTML  }}</code></pre>
+  </div>
+</div>
+{{ else }}
+<div class="row">
+  <div class="col-md-6">{{ $.Inner }}</div>
+  <div class="col-md-6">
+    <button class="btn-copy btn btn-sm" data-clipboard-target=".highlight">
+      copy
+    </button>
+    {{ highlight $.Inner html "title=cherry" }}
+  </div>
+</div>
+{{ end }}

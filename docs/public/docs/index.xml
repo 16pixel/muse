@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Muse: a modern CSS framework based on Flexbox</title>
+    <link>http://localhost:3000/docs/</link>
+    <description>Recent content in Documentation on Muse: a modern CSS framework based on Flexbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:3000/docs/overview/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/overview/installation/</guid>
+      <description> Use manually Download the compiled and minified css file (core ~10KB min+gzip)
+ Download  &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;./dist/muse.min.css&amp;#34;&amp;gt; Add muse via cdn Alternatively, you can use the unpkg or cdnjs CDN to load compiled muse.css.
+&amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;https://unpkg.com/@16px/cherry/dist/muse.min.css&amp;#34;&amp;gt; We recommend our users to lock Muse&#39;s version when using CDN. Please refer to unpkg.com for more information.  Install muse via npm npm i @16px/muse --save-dev</description>
+    </item>
+    
+  </channel>
+</rss>

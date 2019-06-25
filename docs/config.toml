@@ -1,0 +1,63 @@
+#baseURL = "http://47.110.163.19:8888"
+baseURL = "http://localhost:3000"
+languageCode = "en-us"
+title = "Muse: a modern CSS framework based on Flexbox"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+  [params.banner]
+    title = "A Muse CSS framework"
+    subtitle = "Muse UI helps you rapidly building custom designs."
+
+[[menus.main]]
+  name = "Documentation"
+  weight = 10
+  pre = "<i class='icon icon-book text-primary'></i>"
+  identifier = "documentation"
+  url = "/docs/overview/installation/"
+[[menus.main]]
+  name = "Blog"
+  weight = 20
+  pre = "<i class='icon icon-blog text-warning'></i>"
+  identifier = "blog"
+  url = "/blog"
+[[menus.main]]
+  name = "Love"
+  weight = 30
+  pre = "<i class='icon icon-love text-danger'></i>"
+  identifier = ""
+  url = "/love"
+
+[[menus.docs]]
+  name = "Overview"
+  weight = 10
+  identifier = "overview"
+  url = "/overview/o"
+
+[[menus.docs]]
+  name = "Helper"
+  weight = 20
+  identifier = "helper"
+  url = "/helper/"
+
+[[menus.docs]]
+  name = "Layouts"
+  weight = 30
+  identifier = "layout"
+  url = "/layout/"
+
+[[menus.docs]]
+  name = "Elements"
+  weight = 40
+  identifier = "elements"
+  url = "/elements/"
+
+[[menus.docs]]
+  name = "Components"
+  weight = 50
+  identifier = "components"
+  url = "/components/"
+
+

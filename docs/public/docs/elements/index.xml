@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elements on Muse: a modern CSS framework based on Flexbox</title>
+    <link>http://localhost:3000/docs/elements/</link>
+    <description>Recent content in Elements on Muse: a modern CSS framework based on Flexbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/docs/elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Button</title>
+      <link>http://localhost:3000/docs/elements/button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/button/</guid>
+      <description>Button   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn&amp;#34;&amp;gt;Button&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;      Anchor Button   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn&amp;#34;&amp;gt;Anchor&amp;lt;/a&amp;gt; &amp;lt;button class=&amp;#34;btn&amp;#34;&amp;gt;Button&amp;lt;/button&amp;gt; &amp;lt;input class=&amp;#34;btn&amp;#34; type=&amp;#34;submit&amp;#34; value=&amp;#34;Submit input&amp;#34;/&amp;gt; &amp;lt;input class=&amp;#34;btn&amp;#34; type=&amp;#34;reset&amp;#34; value=&amp;#34;Reset input&amp;#34;/&amp;gt; &amp;lt;/div&amp;gt;    
+Color  Primary Info Success Warning Danger   copy   &amp;lt;div class=&amp;#34;btn-demo&amp;#34;&amp;gt; &amp;lt;a class=&amp;#34;btn btn-primary&amp;#34;&amp;gt;Primary&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-info&amp;#34;&amp;gt;Info&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-success&amp;#34;&amp;gt;Success&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-warning&amp;#34;&amp;gt;Warning&amp;lt;/a&amp;gt; &amp;lt;a class=&amp;#34;btn btn-danger&amp;#34;&amp;gt;Danger&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://localhost:3000/docs/elements/form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/form/</guid>
+      <description>Email  Username    This username is available  Password This password is invalid  Subject Select dropdown With options   Message   Check me out   Yes  No   Submit   copy   &amp;lt;form&amp;gt; &amp;lt;!-- email --&amp;gt; &amp;lt;div class=&amp;#34;form-group&amp;#34;&amp;gt; &amp;lt;label for=&amp;#34;email&amp;#34;&amp;gt;Email&amp;lt;/label&amp;gt; &amp;lt;input type=&amp;#34;email&amp;#34; class=&amp;#34;form-control&amp;#34; id=&amp;#34;email&amp;#34; placeholder=&amp;#34;Enter email&amp;#34; /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- username --&amp;gt; &amp;lt;div class=&amp;#34;form-group&amp;#34;&amp;gt; &amp;lt;label for=&amp;#34;username&amp;#34;&amp;gt;Username&amp;lt;/label&amp;gt; &amp;lt;div class=&amp;#34;form-field form-icons-left form-icons-right&amp;#34;&amp;gt; &amp;lt;input type=&amp;#34;username&amp;#34; class=&amp;#34;form-control form-control-success&amp;#34; id=&amp;#34;username&amp;#34; placeholder=&amp;#34;Enter username&amp;#34; /&amp;gt; &amp;lt;i class=&amp;#34;icon icon-github form-icon form-icon-left&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;i class=&amp;#34;icon icon-check form-icon form-icon-right&amp;#34;&amp;gt;&amp;lt;/i&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;small class=&amp;#34;form-text text-success&amp;#34;&amp;gt;This username is available&amp;lt;/small&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>http://localhost:3000/docs/elements/image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/image/</guid>
+      <description>   copy   &amp;lt;figure class=&amp;#34;image&amp;#34; style=&amp;#34;width: 128px; height: 128px;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/128x128.png&amp;#34; alt=&amp;#34;128x128&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;     Rounded   copy   &amp;lt;figure class=&amp;#34;image image-rounded&amp;#34; style=&amp;#34;width: 128px; height: 128px;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/128x128.png&amp;#34; alt=&amp;#34;128x128&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;     Responsive   copy   &amp;lt;figure class=&amp;#34;image image-responsive&amp;#34; style=&amp;#34;padding-top: 50%;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/images/600x300.png&amp;#34; alt=&amp;#34;600x300&amp;#34;&amp;gt; &amp;lt;/figure&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>http://localhost:3000/docs/elements/progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/progress/</guid>
+      <description> %15   copy   &amp;lt;progress class=&amp;#34;progress&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt; %15 &amp;lt;/progress&amp;gt;     %15 %30 %45 %60 %75   copy   &amp;lt;div class=&amp;#34;cd-demo&amp;#34;&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-primary&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%15&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-info&amp;#34; value=&amp;#34;30&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%30&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-success&amp;#34; value=&amp;#34;45&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%45&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-warning&amp;#34; value=&amp;#34;60&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%60&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-danger&amp;#34; value=&amp;#34;75&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%75&amp;lt;/progress&amp;gt; &amp;lt;/div&amp;gt;     %15 %30 %45   copy   &amp;lt;div class=&amp;#34;cd-demo&amp;#34;&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-sm&amp;#34; value=&amp;#34;15&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%15&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress&amp;#34; value=&amp;#34;30&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%30&amp;lt;/progress&amp;gt; &amp;lt;progress class=&amp;#34;progress progress-lg&amp;#34; value=&amp;#34;45&amp;#34; max=&amp;#34;100&amp;#34;&amp;gt;%45&amp;lt;/progress&amp;gt; &amp;lt;/div&amp;gt;    </description>
+    </item>
+    
+    <item>
+      <title>Table</title>
+      <link>http://localhost:3000/docs/elements/table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/table/</guid>
+      <description># First Last Handle     1 Mark Otto @mmo   1 John Wi @add   1 Jenny Otto @uuy    Modifiers Add borders to all the cells. table table-bordered   One Two     Three Four      Add stripes to the table. table table-striped   One Two     Three Four   Five Six   Seven Eight   Nine Ten      You can add a hover effect on each row table table-hover   One Two     Three Four   Five Six   Seven Eight   Nine Ten      You can have a fullwidth table.</description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>http://localhost:3000/docs/elements/tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/docs/elements/tag/</guid>
+      <description> Primary Info Success Warning Danger  copy   &amp;lt;span class=&amp;#34;tag tag-primary&amp;#34;&amp;gt;Primary&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-info&amp;#34;&amp;gt;Info&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-success&amp;#34;&amp;gt;Success&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-warning&amp;#34;&amp;gt;Warning&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;#34;tag tag-danger&amp;#34;&amp;gt;Danger&amp;lt;/span&amp;gt;    </description>
+    </item>
+    
+  </channel>
+</rss>

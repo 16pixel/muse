@@ -1,0 +1,9 @@
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+    {{ $options := (dict "targetPath" "assets/css/muse-docs.min.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+    {{ $style := resources.Get "scss/app.scss" | resources.ToCSS $options }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  <link rel="stylesheet" href="//at.alicdn.com/t/font_924699_f4hdnuv61p.css"/>
+  <link href="https://fonts.googleapis.com/css?family=Averia+Libre&display=swap" rel="stylesheet">
+</head>

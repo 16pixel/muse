@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/breadcrumb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/layouts/media-object/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/button/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blog/cherry/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/helper/color/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/helper/display/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/dropdown/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/form/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/layouts/grid/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/helper/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/image/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/overview/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/layouts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/layouts/layout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/menu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/modal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/navbar/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/progress/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/table/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/tabs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/elements/tag/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/components/tooltip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/docs/helper/typography/</loc>
+  </url>
+  
+</urlset>

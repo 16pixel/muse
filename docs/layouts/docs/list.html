@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $.Scratch.Add "path" .Site.BaseURL }}
+{{ $.Scratch.Add "path" "/" }}
+
+<div class="container" id="main">
+  <div class="row">
+    <div class="col-md-3">{{ partial "sidebar.html" . }}</div>
+    <div class="col-md-9">
+      <div class="cd-header">
+        <h1>{{ .Title }}</h1>
+        <p class="font-4" style="color: #888;">{{ .Description }}</p>
+      </div>
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+
+<script>
+  const $bc = document.getElementById('breadcrumb')
+  const $last = $bc.lastElementChild
+  $last.classList.add('active')
+</script>
+
+{{ partial "footer.html" . }}
