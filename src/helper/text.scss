@@ -1,4 +1,3 @@
-// font size
 
 .font-1 {
   font-size: 3rem !important;
@@ -74,9 +73,13 @@
   font-style: italic;
 }
 
-// truncate
-.text-truncate {
+%text-truncate {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+// truncate
+.text-truncate {
+  @extend %text-truncate;
 }

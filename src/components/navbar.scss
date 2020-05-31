@@ -74,8 +74,8 @@ $navbar-burger-span-transition-duration: 386ms !default;
   .navbar-dropdown-toggle {
     position: relative;
     padding-right: 1rem;
-    display: block;
     width: 100%;
+
     @include media-until(md) {
       padding: .5rem .75rem;
     }
@@ -121,6 +121,7 @@ $navbar-burger-span-transition-duration: 386ms !default;
   display: flex;
   flex-grow: 1;
   flex-shrink: 0;
+  background: #fff;
 
   .navbar-start, .navbar-end {
     display: flex;

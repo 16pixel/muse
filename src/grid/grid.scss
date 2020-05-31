@@ -50,6 +50,10 @@ $grid-gutter: 30px !default;
     flex: 0 0 percentage($i / $columns);
     max-width: percentage($i / $columns);
   }
+
+  .offset-#{$i} {
+    margin-left: percentage($i / $columns);
+  }
 }
 
 @each $breakpoint, $width in $breakpoints {
@@ -59,6 +63,12 @@ $grid-gutter: 30px !default;
         @include media($breakpoint) {
           flex: 0 0 percentage($i / $columns);
           max-width: percentage($i / $columns);
+        }
+      }
+
+      .offset-#{$breakpoint}-#{$i} {
+        @include media($breakpoint) {
+          margin-left: percentage($i / $columns);
         }
       }
     }
